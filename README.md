@@ -1,1 +1,2 @@
-# CODSOFT_task4
+# CODSOFT TASK 4: ROCK-PAPER-SCISSORS GAME  
+Task 4 for CODSOFT Python Internship
